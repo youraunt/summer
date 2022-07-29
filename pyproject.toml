@@ -1,0 +1,33 @@
+[tool.poetry]
+name = "csci-4220-heroku"
+version = "0.1.0"
+description = "csci-4220-project"
+authors = ["Brice Allen <brice.allen@ucdenver.edu>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.11.0"
+watchdog = "^2.1.5"
+protobuf = "3.20.0"
+scipy = "1.6.1"
+altair = "4.2.0"
+
+[tool.poetry.dev-dependencies]
+yapf = "^0.31.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[yapf]
+column_limit = 88
+use_tabs = true
+dedent_closing_brackets = true
+coalesce_brackets = true
+join_multiple_lines = true 
+split_all_top_level_comma_separated_values = false
+split_before_bitwise_operator = false
+split_before_closing_bracket = false
+split_before_arithmetic_operator = false
+
