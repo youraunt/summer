@@ -16,7 +16,8 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
-[![button](Live app on Heroku.)](https://csci-4220.herokuapp.com/)
+
+# [![button](Live app on Heroku.)](https://csci-4220.herokuapp.com/)
 
 <!-- PROJECT LOGO -->
 <br />
