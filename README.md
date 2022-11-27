@@ -17,7 +17,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
 
-# Check out the live app here:
 <a><button name="button" style = "color: red" onclick="https://csci-4220.herokuapp.com/">`App`on Heroku</button></a>
 <!-- PROJECT LOGO -->
 <br />
