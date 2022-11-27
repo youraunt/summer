@@ -16,9 +16,11 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
-
+<br />
+<p align="center">
 # [Check out the app on Heroku](https://csci-4220.herokuapp.com/)
-
+<br />
+</p>
 <!-- PROJECT LOGO -->
 <br />
   <p align="center">
