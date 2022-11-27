@@ -16,8 +16,8 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
+[![button](Live app on Heroku.)](https://csci-4220.herokuapp.com/)
 
-<a><button name="button" style = "color: red" onclick="https://csci-4220.herokuapp.com/">`App`on Heroku</button></a>
 <!-- PROJECT LOGO -->
 <br />
   <p align="center">
