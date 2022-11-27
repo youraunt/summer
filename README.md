@@ -1,7 +1,6 @@
 # CSCI-4220 Social Networks & Informatics Summer 2022 
 ## Final Project - Spotify reccomendation system.
 
-Check out the live app [here](https://csci-4220.herokuapp.com/)
 
 
 
@@ -18,6 +17,7 @@ Check out the live app [here](https://csci-4220.herokuapp.com/)
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
 
+# Check out the live app [here](https://csci-4220.herokuapp.com/)
 
 <!-- PROJECT LOGO -->
 <br />
