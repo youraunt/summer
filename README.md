@@ -1,5 +1,6 @@
-# CSCI-4220 Social Networks & Informatics Summer 2022 
+# CSCI-4220 Social Networks & Informatics 
 ## Final Project - Spotify reccomendation system.
+### Summer 2022
 
 
 
