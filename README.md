@@ -18,8 +18,10 @@
 [![MIT License][license-shield]][license-url]
 <br />
 <p align="center">
-# [Check out the app on Heroku](https://csci-4220.herokuapp.com/)
+Check out the live app!
 <br />
+  <a href="https://csci-4220.herokuapp.com/"> On Heroku</a>
+</p>
 </p>
 <!-- PROJECT LOGO -->
 <br />
